@@ -2,29 +2,22 @@
 
 Final-Year Engineering Student in Computer Networks and Telecommunications @ INSAT 
 
-Interested in:
-- Generative AI & Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Cloud & MLOps
-- AI for Cybersecurity
----
-
 ## About Me
 
 I am an ICT Engineering student passionate about building intelligent systems combining **Artificial Intelligence, Software Engineering, and Cybersecurity**.
 
 My experience includes developing:
-- LLM-powered conversational agents
-- RAG-based knowledge assistants
-- AI-driven cybersecurity tools
-- Full-stack web applications
+- LLM-powered conversational agents and RAG-based knowledge assistants
+- Computer Vision systems for industrial defect detection
+- AI-driven cybersecurity tools and automated penetration testing platforms
+- Full-stack web applications and cloud-based solutions
 
-Currently exploring **Agentic AI, Azure, and MLOps**.
+Currently exploring **Agentic AI, Azure ML, MLOps, and Kubernetes**.
 
 ---
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Programming**
 
@@ -69,11 +62,7 @@ Currently exploring **Agentic AI, Azure, and MLOps**.
 
 ---
 
-## 📊 GitHub Stats
-
-![Streak](https://streak-stats.demolab.com?user=SamiaBenNasr&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamiaBenNasr&theme=tokyo-night)
+## GitHub Stats
 
 
 <p align="center">
@@ -83,8 +72,9 @@ Currently exploring **Agentic AI, Azure, and MLOps**.
 
 ---
 
-## 📫 Contact
+## Contact
 
-💼 LinkedIn: samia-ben-nasr
-📧 Email: samia.bennasr@insat.ucar.tn
+LinkedIn: [Samia Ben Nasr](https://www.linkedin.com/in/samia-ben-nasr-0a3a9b282/)
+Email: samia.bennasr9@gmail.com
+
 
