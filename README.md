@@ -85,7 +85,6 @@ Currently exploring **Agentic AI, Azure ML, MLOps, and Kubernetes**
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamiaBenNasr&theme=tokyo-night" height="170"/>
 
 </div>
 
