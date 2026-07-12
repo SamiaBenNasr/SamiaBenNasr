@@ -1,50 +1,90 @@
-# Samia Ben Nasr
+# Hi there 👋 I'm Samia Ben Nasr
 
-Engineering student in Computer Networks and Telecommunications at INSAT, focused on AI-driven security solutions — from LLM-powered conversational agents to automated penetration-testing platforms.
+Final-Year Engineering Student in Computer Networks and Telecommunications @ INSAT 
 
-## Tech Stack
+Interested in:
+- Generative AI & Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Cloud & MLOps
+- AI for Cybersecurity
+---
 
-**Languages**
+## About Me
 
+I am an ICT Engineering student passionate about building intelligent systems combining **Artificial Intelligence, Software Engineering, and Cybersecurity**.
+
+My experience includes developing:
+- LLM-powered conversational agents
+- RAG-based knowledge assistants
+- AI-driven cybersecurity tools
+- Full-stack web applications
+
+Currently exploring **Agentic AI, Azure, and MLOps**.
+
+---
+
+
+## 🛠️ Tech Stack
+
+**Programming**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Frameworks & Web**
+**AI / Data**
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-
-**AI & Data**
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![PyTorch](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6E4AFF?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-0A66C2?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-**Systems & Security**
+**Backend & Web**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+
+**Cloud & DevOps**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Cybersecurity**
+
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-2596CD?style=flat-square)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-**Databases**
+---
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+## 📊 GitHub Stats
 
-## Contact
+![Streak](https://streak-stats.demolab.com?user=SamiaBenNasr&theme=tokyonight)
 
-[GitHub](https://github.com/SamiaBenNasr) · [LinkedIn](https://linkedin.com/in/samia-ben-nasr) · samia.bennasr@insat.ucar.tn
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SamiaBenNasr&theme=tokyo-night)
+
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=SamiaBenNasr&theme=tokyonight" height="170"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamiaBenNasr&theme=tokyo-night" height="170"/>
+</p>
+
+---
+
+## 📫 Contact
+
+💼 LinkedIn: samia-ben-nasr
+📧 Email: samia.bennasr@insat.ucar.tn
+
