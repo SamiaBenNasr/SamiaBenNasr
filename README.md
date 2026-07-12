@@ -1,109 +1,50 @@
-# Hi there 👋 I'm Samia Ben Nasr
+# Samia Ben Nasr
 
-🎓 Final-Year Engineering Student in Computer Networks and Telecommunications @ INSAT (Tunisia)
+Engineering student in Computer Networks and Telecommunications at INSAT, focused on AI-driven security solutions — from LLM-powered conversational agents to automated penetration-testing platforms.
 
-💡 Interested in:
-- 🤖 Generative AI & Large Language Models (LLMs)
-- 🔎 Retrieval-Augmented Generation (RAG)
-- ☁️ Cloud & MLOps
-- 🔐 AI for Cybersecurity
-- 🌐 Distributed Systems & Networking
+## Tech Stack
 
----
+**Languages**
 
-## 🚀 About Me
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-I am an ICT Engineering student passionate about building intelligent systems combining **Artificial Intelligence, Software Engineering, and Cybersecurity**.
+**Frameworks & Web**
 
-My experience includes developing:
-- LLM-powered conversational agents
-- RAG-based knowledge assistants
-- AI-driven cybersecurity tools
-- Full-stack web applications
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-Currently exploring **Agentic AI, Azure, Kubernetes, and MLOps**.
+**AI & Data**
 
----
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-## 💼 Experience
+**Systems & Security**
 
-### 🤖 AI Conversational Agent — Welyne
-- Built an LLM-powered virtual assistant for personalized recommendations.
-- Developed multi-step workflows using **LangGraph**.
-- Integrated **Google Gemini, LangChain, FastAPI, React, and PostgreSQL**.
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
 
-### 🔐 PENIA — Intelligent Penetration Testing Platform (AICYOU)
-- Developed an AI-assisted penetration testing platform.
-- Automated reconnaissance, vulnerability scanning, and reporting.
-- Integrated **Nmap, Nikto, Metasploit** with ML-based vulnerability prioritization.
+**Databases**
 
-### 💬 Rasa Intelligent Chatbot (Hydatis)
-- Designed and trained a conversational assistant using **Rasa NLP**.
-- Integrated chatbot services into a Spring Boot application.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
----
+## Contact
 
-## ⭐ Featured Projects
-
-### 🏦 SafeHaven — Private RAG Knowledge Platform
-Offline AI knowledge assistant for banking and compliance documents.
-
-**Technologies:**
-Python • RAG • Qdrant • Hugging Face • LLMs • Docker
-
----
-
-### 🤖 AI Chatbot with RAG
-Intelligent employee assistant using Retrieval-Augmented Generation.
-
-**Technologies:**
-Django • LangChain • Hugging Face • NLP • MySQL
-
----
-
-### 🔐 PENIA — AI Pentesting Platform
-
-Automated penetration testing and vulnerability prioritization platform.
-
-**Technologies:**
-Python • Streamlit • Nmap • Metasploit • Machine Learning
-
----
-
-## 🛠️ Tech Stack
-
-### Programming
-Python • Java • C/C++ • JavaScript • TypeScript • SQL
-
-### AI / Data
-PyTorch • Hugging Face • LangChain • RAG • NLP • Scikit-learn
-
-### Backend & Web
-Django • FastAPI • Spring Boot • Angular • NestJS
-
-### Cloud & DevOps
-Docker • Azure • Kubernetes • Terraform • GitHub Actions
-
-### Cybersecurity
-Nmap • Nikto • Metasploit • Linux
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SamiaBenNasr&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamiaBenNasr&layout=compact&theme=tokyonight&count_private=true" height="170"/>
-</p>
-
----
-
-## 📫 Contact
-
-📍 Tunis, Tunisia
-
-💼 LinkedIn: samia-ben-nasr
-
-📧 Email: samia.bennasr@insat.ucar.tn
-
-⭐ Feel free to explore my repositories!
+[GitHub](https://github.com/SamiaBenNasr) · [LinkedIn](https://linkedin.com/in/samia-ben-nasr) · samia.bennasr@insat.ucar.tn
