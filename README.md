@@ -14,8 +14,6 @@ My experience includes developing:
 
 Currently exploring **Agentic AI, Azure ML, MLOps, and Kubernetes**.
 
----
-
 
 ## Tech Stack
 
@@ -60,7 +58,6 @@ Currently exploring **Agentic AI, Azure ML, MLOps, and Kubernetes**.
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
 
 ## GitHub Stats
 
@@ -70,7 +67,6 @@ Currently exploring **Agentic AI, Azure ML, MLOps, and Kubernetes**.
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SamiaBenNasr&theme=tokyo-night" height="170"/>
 </p>
 
----
 
 ## Contact
 
