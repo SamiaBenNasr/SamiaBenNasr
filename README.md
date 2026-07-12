@@ -4,7 +4,7 @@
 
 ### Final-Year Engineering Student in Computer Networks and Telecommunications @ INSAT
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Building+AI-driven+Security+Solutions;LLMs+%7C+RAG+%7C+Computer+Vision;Cloud+%26+MLOps+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Building+AI-driven+Security+Solutions;LLMs+%7C+RAG+%7C+GenAI;Cloud+%26+MLOps+Enthusiast" />
 
 </div>
 
