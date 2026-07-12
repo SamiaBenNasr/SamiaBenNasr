@@ -4,7 +4,7 @@
 
 ### Final-Year Engineering Student in Computer Networks and Telecommunications @ INSAT
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Building+AI-driven+Security+Solutions;LLMs+%7C+RAG+%7C+Computer+Vision;Cloud+%26+MLOps+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0078D4&center=true&vCenter=true&width=700&lines=Building+AI-driven+Security+Solutions;LLMs+%7C+RAG+%7C+Computer+Vision;Cloud+%26+MLOps+Enthusiast" />
 
 </div>
 
@@ -25,6 +25,10 @@ My experience includes developing:
 - Full-stack web applications and cloud-based solutions
 
 Currently exploring **Agentic AI, Azure ML, MLOps, and Kubernetes**.
+
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</div>
 
 ---
 
