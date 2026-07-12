@@ -24,11 +24,7 @@ My experience includes developing:
 - AI-driven cybersecurity tools and automated penetration testing platforms
 - Full-stack web applications and cloud-based solutions
 
-Currently exploring **Agentic AI, Azure ML, MLOps, and Kubernetes**.
-
-<div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</div>
+Currently exploring **Agentic AI, Azure ML, MLOps, and Kubernetes**
 
 ---
 
@@ -101,7 +97,5 @@ Currently exploring **Agentic AI, Azure ML, MLOps, and Kubernetes**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samia-ben-nasr-0a3a9b282/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samia.bennasr9@gmail.com)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:1C3C3C&height=120&section=footer" />
 
 </div>
