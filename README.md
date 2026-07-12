@@ -1,8 +1,20 @@
-# Hi there 👋 I'm Samia Ben Nasr
+<div align="center">
 
-Final-Year Engineering Student in Computer Networks and Telecommunications @ INSAT 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C3C3C,100:0078D4&height=200&section=header&text=Hi%20there,%20I'm%20Samia%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+
+### Final-Year Engineering Student in Computer Networks and Telecommunications @ INSAT
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Building+AI-driven+Security+Solutions;LLMs+%7C+RAG+%7C+Computer+Vision;Cloud+%26+MLOps+Enthusiast" />
+
+</div>
+
+---
+
+<div align="center">
 
 ## About Me
+
+</div>
 
 I am an ICT Engineering student passionate about building intelligent systems combining **Artificial Intelligence, Software Engineering, and Cybersecurity**.
 
@@ -14,6 +26,13 @@ My experience includes developing:
 
 Currently exploring **Agentic AI, Azure ML, MLOps, and Kubernetes**.
 
+<div align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</div>
+
+---
+
+<div align="center">
 
 ## Tech Stack
 
@@ -58,19 +77,31 @@ Currently exploring **Agentic AI, Azure ML, MLOps, and Kubernetes**.
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+</div>
+
+---
+
+<div align="center">
 
 ## GitHub Stats
 
-
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=SamiaBenNasr&theme=tokyonight" height="170"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamiaBenNasr&theme=tokyo-night" height="170"/>
-</p>
 
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SamiaBenNasr&theme=tokyo-night" height="170"/>
+
+</div>
+
+---
+
+<div align="center">
 
 ## Contact
 
-LinkedIn: [Samia Ben Nasr](https://www.linkedin.com/in/samia-ben-nasr-0a3a9b282/)
-Email: samia.bennasr9@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samia-ben-nasr-0a3a9b282/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samia.bennasr9@gmail.com)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:1C3C3C&height=120&section=footer" />
 
+</div>
